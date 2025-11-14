@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Draginon
 - 👀 I’m interested in Coding and Game Development
-- 🌱 I’m currently learning Kubernetes and Python
 - ⚡ Fun fact: The dinosaurs lived on the other side of the galaxy.
 
 <!---
