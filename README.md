@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Draginon
+- 👋 Hi, I’m Sagun
 - 👀 I’m interested in Coding and Game Development
 - ⚡ Fun fact: The dinosaurs lived on the other side of the galaxy.
 
